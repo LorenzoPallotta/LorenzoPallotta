@@ -3,19 +3,19 @@
 
 ## Full Stack Developer
 
-📧 [lorenzo.pallotta99@gmail.com](mailto:lorenzo.pallotta99@gmail.com)
-💻 https://github.com/LorenzoPallotta
+ [lorenzo.pallotta99@gmail.com](mailto:lorenzo.pallotta99@gmail.com)
+ https://github.com/LorenzoPallotta
 
 ---
 
-## 👨‍💻 Profile
+##  Profile
 
 Full stack software developer with solid experience in IT infrastructure management and backend systems.
 Specialized in the Python ecosystem and server administration, with advanced skills in virtualization (Proxmox) and system migrations.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 * **Python (Flask, Tkinter)**
 * **SQL (SQL Server, PostgreSQL, MySQL)**
