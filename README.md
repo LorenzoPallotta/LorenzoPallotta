@@ -1,7 +1,5 @@
-## Hi there 👋
 
-<!--
-**LorenzoPallotta/LorenzoPallotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1654" height="2339" alt="940f3780-1" src="https://github.com/user-attachments/assets/5ef3fa6d-6dd7-42a7-b904-efcf8bc3edb3" />
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
