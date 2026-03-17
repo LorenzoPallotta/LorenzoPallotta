@@ -24,5 +24,9 @@ Specialized in the Python ecosystem and server administration, with advanced ski
 * **Java**
 * **JavaScript**
 
+---
+
+## Work in progress
+
 -  I’m currently working on Ql0 a custom Linux operating system built with a focus on low-level control, efficiency, and modular design. Developed as a learning and experimentation project.
 -  I’m currently learning LFS, BLFS
