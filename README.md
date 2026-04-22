@@ -17,7 +17,7 @@ Specialized in the Python ecosystem and server administration, with advanced ski
 
 ##  Technical Skills
 
-* **Python (Flask, Tkinter)**
+* **Python**
 * **SQL (SQL Server, PostgreSQL, MySQL)**
 * **Linux Administration**
 * **.NET / C#**
